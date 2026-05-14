@@ -24,7 +24,7 @@ This project is a **complete Quality Assurance initiative** for the **Daraz** e-
 
 | Metric | Value |
 |--------|-------|
-| Total Test Cases | 25+ |
+| Total Test Cases | 40+ |
 | Defects Found | 6 |
 | Test Screenshots | 8 |
 | Test Coverage | 85% |
